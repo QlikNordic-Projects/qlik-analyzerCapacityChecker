@@ -1,0 +1,16 @@
+{
+  "name": "qlikcheckcapacityminutes",
+  "version": "1.0.0",
+  "description": "License monitor for Qlik Sense Enterprise for Windows",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Bäcklin johan.backlin@qlik.com & Alexander Jaballah bqc@qlik.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.0"
+  }
+}
